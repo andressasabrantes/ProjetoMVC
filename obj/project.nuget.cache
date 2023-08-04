@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pA7uQTZAeO3qAlt/l2cnUITM+AJqi9x85NZc9KciLbSzbf+jad+UI9zpWkVIdi27NNe0llWSaO5uglT1sFKHNQ==",
+  "dgSpecHash": "WLmeyfJbHQM6ixejaCwYoK9VozfJ7R6JOGOD+dYh8hmOmhRzy9j9/XsqPuzTz/DuFuwN9/LbNVSS/3D1uP1JQQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\andre\\OneDrive\\Área de Trabalho\\ProjetoMVC\\ProjetoMVC.csproj",
+  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Área de Trabalho\\ProjetoMVC\\ProjetoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
