@@ -1,7 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using ProjetoMVC.Repositories;
 
-
 namespace ProjetoMVC.Controllers
 {
     public class ContatoController : Controller
@@ -13,6 +12,11 @@ namespace ProjetoMVC.Controllers
             _dbcontext = dbcontext;
         }
         public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Criar()
         {
             return View();
         }
